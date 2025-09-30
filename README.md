@@ -16,3 +16,9 @@ J’ai déjà eu l’occasion d’utiliser ces outils lors d’un projet l’ann
 Ce cours et ce devoir sont pour moi une opportunité de répéter les bases et de les solidifier.  
 Je suis motivée à approfondir mes compétences, car je sais qu’elles me seront utiles dans la suite de mes études.  
 Cette initiation va me permettre de me servir de cet outil dans de futurs projets collaboratifs.
+
+
+## Image locale
+
+
+![Comparaison MarkerBased et Markerless](images/plot.png)
